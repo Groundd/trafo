@@ -4,8 +4,8 @@
 \alias{sqrtshift}
 \title{Square-root shift transformation for linear models}
 \usage{
-sqrtshift(object, lambda = "estim", method = "ml", lambdarange = NULL,
-  plotit = TRUE)
+sqrtshift(object, lambda = "estim", method = "ml",
+  lambdarange = NULL, plotit = TRUE)
 }
 \arguments{
 \item{object}{an object of type lm.}

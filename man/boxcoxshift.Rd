@@ -4,8 +4,8 @@
 \alias{boxcoxshift}
 \title{Box-Cox shift transformation for linear models}
 \usage{
-boxcoxshift(object, lambda = "estim", method = "ml", lambdarange = c(-2,
-  2), plotit = TRUE)
+boxcoxshift(object, lambda = "estim", method = "ml",
+  lambdarange = c(-2, 2), plotit = TRUE)
 }
 \arguments{
 \item{object}{an object of type lm.}

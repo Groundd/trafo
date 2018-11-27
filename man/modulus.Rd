@@ -4,8 +4,8 @@
 \alias{modulus}
 \title{Modulus transformation for linear models}
 \usage{
-modulus(object, lambda = "estim", method = "ml", lambdarange = c(-2, 2),
-  plotit = TRUE)
+modulus(object, lambda = "estim", method = "ml", lambdarange = c(-2,
+  2), plotit = TRUE)
 }
 \arguments{
 \item{object}{an object of type lm.}

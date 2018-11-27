@@ -4,8 +4,8 @@
 \alias{manly}
 \title{Manly transformation for linear models}
 \usage{
-manly(object, lambda = "estim", method = "ml", lambdarange = c(-2, 2),
-  plotit = TRUE)
+manly(object, lambda = "estim", method = "ml", lambdarange = c(-2,
+  2), plotit = TRUE)
 }
 \arguments{
 \item{object}{an object of type lm.}

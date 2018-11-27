@@ -4,8 +4,8 @@
 \alias{logshiftopt}
 \title{Log shift opt transformation for linear models}
 \usage{
-logshiftopt(object, lambda = "estim", method = "ml", lambdarange = NULL,
-  plotit = TRUE)
+logshiftopt(object, lambda = "estim", method = "ml",
+  lambdarange = NULL, plotit = TRUE)
 }
 \arguments{
 \item{object}{an object of type lm.}

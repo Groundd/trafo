@@ -4,8 +4,8 @@
 \alias{boxcox}
 \title{Box-Cox transformation for linear models}
 \usage{
-boxcox(object, lambda = "estim", method = "ml", lambdarange = c(-2, 2),
-  plotit = TRUE)
+boxcox(object, lambda = "estim", method = "ml", lambdarange = c(-2,
+  2), plotit = TRUE)
 }
 \arguments{
 \item{object}{an object of type \code{lm}.}
